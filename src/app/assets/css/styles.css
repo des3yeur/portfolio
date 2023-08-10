@@ -1,0 +1,78 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.contain {
+  background: rgba( 114, 114, 114, 0.99 );
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  backdrop-filter: blur( 8px );
+  -webkit-backdrop-filter: blur( 8px );
+  border-radius: 10px;
+  border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+.carousel .control-dots,
+.carousel .thumbs-wrapper,
+.carousel .carousel-status {
+  display: none;
+}
+
+#header {
+  background-color: #000000;
+  font-size: 16px;
+  font-weight: bold;
+  color: #04c9ff;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.text-black {
+  color: #000000;
+}
+
+.carousel .thumbs-wrapper {
+  margin: 0 !important;
+}
+
+.iuNnmE.active {
+  background: #ffdf00;
+  color: #007fff;
+}
+
+.text-blue {
+  color: #04c9ff;
+}
+.text-pink {
+  color: #fcddec;
+}
+.text-gray-dark {
+  color: #494949;
+}
+.text-gray-middle {
+  color: #727272;
+}
+.text-gray-clear {
+  color: #dddddd;
+}
+.fond-gradient {
+  background: linear-gradient(to right, #0f0f0f, #2f2f2f);
+}
+.fond-gradient-reverse {
+  background: linear-gradient(to left, #0f0f0f, #2f2f2f);
+}
+.blackfond {
+  color: #010101;
+}
+.grayfond {
+  background-color: #727272;
+}
+@font-face {
+  font-family: "Plusjakartasans-regular";
+  src: url("../fonts/Plus_Jakarta_Sans/static/PlusJakartaSans-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Consolas-regular";
+  src: url("../fonts/Consolas-Font/CONSOLA.TTF") format("truetype");
+}
