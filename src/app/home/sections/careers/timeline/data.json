@@ -1,37 +1,61 @@
 [
   {
-    "cardTitle": "Dunkirk",
-    "url": "http://www.history.com",
-    "cardSubtitle": "Men of the British Expeditionary Force (BEF) wade out to..",
-    "cardDetailedText": "Men of the British Expeditionary Force (BEF) wade out to..",
+    "cardTitle": "BTS NDRC",
+    "url": "https://ecm-meaux.fr/lycee-jean-rose/",
+    "cardSubtitle": "Mon début dans les études",
+    "cardDetailedText": "J'ai choisi de faire un BTS NDRC (Négociation et Digitalisation de la Relation Client) parce que j'ai une véritable passion pour la vente et la relation client. Depuis longtemps, j'ai toujours trouvé gratifiant d'interagir avec les clients, de comprendre leurs besoins, et de trouver des solutions pour les satisfaire. Cette formation me permet de transformer cet intérêt personnel en une carrière prometteuse. Je suis convaincu(e) que le BTS NDRC est la clé pour développer mes compétences dans ces domaines. Grâce à cette formation, je vais acquérir les connaissances et les techniques nécessaires pour exceller dans la gestion des relations avec les clients. De plus, la composante de digitalisation me permettra de tirer parti des nouvelles technologies pour optimiser les ventes et offrir une expérience client exceptionnelle. Je suis enthousiaste à l'idée de mettre en pratique ce que j'apprends et de travailler dans un domaine qui me passionne vraiment.",
     "media": {
       "type": "IMAGE",
       "source": {
-        "url": ""
+        "url": "https://media.licdn.com/dms/image/C560BAQH8srnIQYiCoQ/company-logo_200_200/0/1641488615987?e=2147483647&v=beta&t=6JsfAbhw9ixfIkmX3cl-6OIGTQST6sBZ4eneknYHHYs"
       }
     }
   },
   {
-    "cardTitle": "Dunkirk",
-    "url": "http://www.history.com",
-    "cardSubtitle": "Men of the British Expeditionary Force (BEF) wade out to..",
-    "cardDetailedText": "Men of the British Expeditionary Force (BEF) wade out to..",
+    "cardTitle": "Manufor services",
+    "url": "https://www.manufor-services.com/",
+    "cardSubtitle": "Mes premiers pas en entreprise",
+    "cardDetailedText": "En tant qu'Assistant technico-commercial dans le pôle hydraulique, j'ai débuté en accompagnant les clients dans leurs projets de construction nécessitant des solutions hydrauliques. Mon rôle incluait la réalisation d'études de faisabilité, la proposition d'offres complètes englobant à la fois produits et services, et le développement de solides relations avec les clients. Cette expérience m'a permis de renforcer mes compétences techniques et en relation client, me préparant ainsi à une carrière prometteuse dans ce domaine.",
     "media": {
       "type": "IMAGE",
       "source": {
-        "url": ""
+        "url": "https://media.licdn.com/dms/image/C4D0BAQGd2MWtZyXG1w/company-logo_200_200/0/1556264501828?e=2147483647&v=beta&t=cjG5OizF67jVtDWEk7c-20DQ37G6hb6jo4NkNOX0Xb8"
       }
     }
   },
   {
-    "cardTitle": "Dunkirk",
-    "url": "http://www.history.com",
-    "cardSubtitle": "Men of the British Expeditionary Force (BEF) wade out to..",
-    "cardDetailedText": "Men of the British Expeditionary Force (BEF) wade out to..",
+    "cardTitle": "Bachelor",
+    "url": "https://www.eemi.com/",
+    "cardSubtitle": "La suite logique",
+    "cardDetailedText": "J'ai ensuite décidé de suivre un Bachelor en Chef de Projet Digital pour approfondir mes compétences en réponse à la transformation numérique croissante dans le monde des affaires. Cette formation m'a permis d'intégrer des compétences spécifiques au digital, d'élargir mes opportunités de carrière, et de mieux comprendre comment utiliser les outils numériques dans mon domaine précédent en tant qu'Assistant technico-commercial.",
     "media": {
       "type": "IMAGE",
       "source": {
-        "url": ""
+        "url": "https://storage.letudiant.fr/osp/cards/1281/logo-500x500-230821052959.png"
+      }
+    }
+  },
+  {
+    "cardTitle": "Groupe Godet",
+    "url": "https://www.groupe-godet.fr/",
+    "cardSubtitle": "La fusion des sociétés",
+    "cardDetailedText": "Dans le contexte d'une fusion regroupant quatre sociétés en une seule entité, j'ai eu l'opportunité de concevoir le site internet marchand de la nouvelle entreprise. Ce projet a exigé une coordination étroite entre les équipes des sociétés fusionnées, ainsi que la mise en place de fonctionnalités de commerce électronique avancées. Mon rôle a été essentiel pour garantir une expérience utilisateur fluide et intuitive, contribuant ainsi au succès de la fusion et au renforcement de la nouvelle entreprise sur le marché. Cette expérience a consolidé mes compétences en gestion de projet et en conception web.",
+    "media": {
+      "type": "IMAGE",
+      "source": {
+        "url": "https://static.wixstatic.com/media/d7f696_a191b72c722a48e19eaf16ca708e478a~mv2.jpg/v1/crop/x_0,y_8,w_193,h_181/fill/w_270,h_253,al_c,lg_1,q_80,enc_auto/Logo%20groupe%20godet.jpg"
+      }
+    }
+  },
+  {
+    "cardTitle": "Formation développeur",
+    "url": "https://www.onlineformapro.com/",
+    "cardSubtitle": "Ma ré-orientation",
+    "cardDetailedText": "J'ai choisi de me réorienter vers une carrière de développeur car je souhaitais être plus directement impliqué au cœur des projets. Cette décision a été motivée par mon désir de jouer un rôle central dans la création et la mise en œuvre de solutions numériques, en mettant en pratique mes compétences techniques et ma passion pour la technologie. De cette manière, je peux contribuer de manière plus directe au développement et au succès des projets, tout en poursuivant ma quête d'excellence dans le domaine du numérique.",
+    "media": {
+      "type": "IMAGE",
+      "source": {
+        "url": "https://www.andrh.fr/uploads/images/Prestataires/644a870400640599791611.jpg"
       }
     }
   }

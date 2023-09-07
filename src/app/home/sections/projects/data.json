@@ -1,22 +1,14 @@
 [
   {
     "id": 1,
-    "title": "Projet 1",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGWEwXpRS7z7rVaGrjIWWTdE8_TiYTGiYjA&usqp=CAU"
+    "title": "Tout levage",
+    "image": "/images/logotoutlevage.svg"
   },
   {
     "id": 2,
-    "title": "Projet 2",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGWEwXpRS7z7rVaGrjIWWTdE8_TiYTGiYjA&usqp=CAU"
-  },
-  {
-    "id": 3,
-    "title": "Projet 3",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGWEwXpRS7z7rVaGrjIWWTdE8_TiYTGiYjA&usqp=CAU"
-  },
-  {
-    "id": 4,
-    "title": "Projet 4",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGWEwXpRS7z7rVaGrjIWWTdE8_TiYTGiYjA&usqp=CAU"
+    "title": "VirtusDev",
+    "image": "/images/virtusdev-bleu.png"
+    
   }
+  
 ]

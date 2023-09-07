@@ -6,7 +6,7 @@ import { FiArrowDown } from "react-icons/fi";
 
 const Projects = () => {
   return (
-    <section className="">
+    <section id="projects" className="text-xl">
       <div>
         <div className="contain mx-6 p-6">
           <h1 className="text-pink">const Projects = () {"=> {"}</h1>
@@ -15,11 +15,14 @@ const Projects = () => {
             <br />
             <span className="pl-2">{"<Carousel>"}</span>
             <br />
-            <div className="py-2">
-              <Caroussel>
+            <div className="py-2 flex-row align-middle flex items-center justify-center">
+              <Caroussel >
+                
                 {data.map((project) => {
                   return (
-                    <CardProject image={project.image} title={project.title} />
+                    <div className="flex justify-center h-80 lg:h-full">
+                    <CardProject image={project.image} title={project.title}/>                
+                    </div>
                   );
                 })}
               </Caroussel>

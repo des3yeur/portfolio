@@ -2,7 +2,7 @@ import TimelineMobile from "./timeline";
 
 const Careers = () => {
   return (
-    <section className="py-12">
+    <section id="career" className="py-12 text-xl">
       <div>
         <div className="contain mx-6 p-6">
           <h1 className="text-pink">const Career = () {"=> {"}</h1>
@@ -11,7 +11,7 @@ const Careers = () => {
             <br />
             <span className="pl-2">{"<Chrono>"}</span>
             <br />
-            <div className="w-full py-4">
+            <div className="w-full py-4 flex justify-center">
               <TimelineMobile />
             </div>
             <span className="pl-2">{"</Chrono>"}</span>

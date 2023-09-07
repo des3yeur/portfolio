@@ -21,9 +21,10 @@ const HeaderMobile = () => {
             <h1 className="text-gray-clear text-lg">GOURDY</h1>
           </a>
         </div>
-        <button className="" type="button" onClick={() => setShowModal(true)}>
-          Contact
+        <button className="contain border-[1px] hover:transition hover:ease-out hover:duration-700  hover:bg-white active:bg-slate-500 mx-4 my-8 font-plusjakartasansRegular text-xs font-bold text-gray-clear text-border" type="button" onClick={() => setShowModal(true)}>
+          Contact me
         </button>
+       
       </nav>
       {showModal === true ? Modal() : null}
     </header>

@@ -11,15 +11,18 @@ const Introduction = () => {
   let chevron = "</>";
 
   return (
-    <section className="h-screen">
-      <div className="flex justify-center py-36">
+    <section id="introduction" className="h-screen ">
+      <div className="flex justify-center pt-36 pb-10 font-consolasfontRegular"> 
+      
+
         <Image
-          src="/images/logo_angular_js.png"
-          width={75}
-          height={75}
+          src="/images/photo_gautier.jpg"
+          width={200}
+          height={200}
           alt="Gautier Gourdy"
           className="rounded-full"
-        />
+          />
+          
       </div>
       <div className="flex flex-col">
         <div className=" flex flex-col text-center ">
@@ -30,7 +33,7 @@ const Introduction = () => {
       </div>
       <div className="grid grid-cols-4 py-4">
         <div className=""></div>
-        <div className="flex flex-row col-span-3">
+        <div className="flex flex-row col-span-4 justify-center">
           <div>
             <h1 className="text-right text-gray-dark text-5xl">10</h1>
           </div>
@@ -47,12 +50,15 @@ const Introduction = () => {
         <div className=" grayfond rounded-lg shadow-md shadow-black text-xs mb-4">
           <div className="grid grid-cols-3">
             <div className="col-span-2 p-4 flex flex-col justify-center items-center">
+
               <h1 className="text-center text-gray-clear">
                 Fullstack Developer
               </h1>
+              <AnchorLink href="#projects" offset={() => 100}>
               <Link href={""} className="text-pink">
-                Project
+                Projects
               </Link>
+              </AnchorLink>
             </div>
             <div className="flex justify-center items-center">
               <p className="text-lg text-blue">{chevron}</p>
@@ -73,7 +79,7 @@ const Introduction = () => {
           </div>
         </div>
       </div>
-      <div className="flex justify-center pt-20">
+      <div className="flex justify-center pt-14">
         <AnchorLink href="#about" offset={() => 100}>
           <FiArrowDown size={50} className="text-gray-clear" />
         </AnchorLink>

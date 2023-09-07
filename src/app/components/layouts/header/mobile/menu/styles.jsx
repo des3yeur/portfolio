@@ -13,18 +13,18 @@ export let styles = {
     background: "#a90000",
   },
   bmCrossButton: {
-    height: "24px",
-    width: "24px",
+    height: "50px",
+    width: "50px",
   },
   bmCross: {
-    background: "red",
+    background: "#dddddd",
   },
   bmMenuWrap: {
     position: "fixed",
     height: "100%",
   },
   bmMenu: {
-    background: "gray",
+    background: "#494949",
     fontSize: "1.15em",
   },
   bmMorphShape: {
