@@ -12,7 +12,7 @@ const Introduction = () => {
 
   return (
     <section id="introduction" className="h-screen ">
-      <div className="flex justify-center pt-36 pb-10 font-consolasfontRegular"> 
+      <div className="flex justify-center pt-20 pb-10 font-consolasfontRegular"> 
       
 
         <Image
@@ -79,7 +79,7 @@ const Introduction = () => {
           </div>
         </div>
       </div>
-      <div className="flex justify-center pt-14">
+      <div className="flex justify-center pt-14 mb-4">
         <AnchorLink href="#about" offset={() => 100}>
           <FiArrowDown size={50} className="text-gray-clear" />
         </AnchorLink>

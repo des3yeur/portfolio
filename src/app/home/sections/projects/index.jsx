@@ -20,7 +20,7 @@ const Projects = () => {
                 
                 {data.map((project) => {
                   return (
-                    <div className="flex justify-center h-80 lg:h-full">
+                    <div key={project.id} className="flex justify-center h-80 lg:h-full">
                     <CardProject image={project.image} title={project.title}/>                
                     </div>
                   );
